@@ -46,10 +46,16 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
-
-
-
+```
+1.Create a new project in QuartusII software.
+2.Name the project as uc for upcounter and dc for down counter.
+3.Create a new verilog hdl file in the project file.
+4.Name the module as dc and uc for down counter and up counter.
+5.Within the module declare input and output variables.
+6.Create a loop using if-else with condition parameter as reset value.
+7.End the loop.
+8.End the module.
+```
 ### PROGRAM 
 ```
 /*
@@ -91,8 +97,7 @@ endmodule
 # UP COUNTER
 ![Screenshot 2023-10-21 091827](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/685fb319-a210-4973-9125-b67a47fc6752)
 # DOWN COUNTER
-![Screenshot 2023-10-31 122229](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/4a73589b-7797-44da-bb19-a76b1b92f5cb)
-
+![Screenshot 2023-10-21 094133](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/7ecab5bb-30ed-412a-ba61-5177b6f5ae73)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
@@ -104,10 +109,10 @@ endmodule
 
 ### TRUTH TABLE 
 # UP COUNTER
-![Screenshot 2023-10-31 122850](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/eb651ed4-a52b-4b7e-b661-04415d6a631d)
-# DOWN COUNTER
-![Screenshot 2023-10-31 122952](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/5f39b8a9-3866-4745-8ff3-1134f77e6197)
+![Screenshot 2023-10-31 124627](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/111aa0d6-1b3f-485e-a53d-0321e034f7aa)
 
+# DOWN COUNTER
+![Screenshot 2023-10-31 124636](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/0a782ef9-705f-4039-983c-18ce0d081e52)
 
 ### RESULTS 
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
