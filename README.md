@@ -64,7 +64,7 @@ Developed by: S.M.Syed Mokthiyar
 RegisterNumber: 212222230156
 */
 ```
-## UP OUNTER
+## UP COUNTER
 ```
 module Counters(clk,A);
 input clk;
@@ -88,9 +88,7 @@ begin
 	A[3]=(((~A[0])&(~A[1])&(~A[2]))^A[3]);
 	A[2]=(((~A[0])&(~A[1]))^A[2]);
 	A[1]=(~A[0])^A[1];
-	A[0]=(~A[0])^1;
-end
-endmodule
+	A[0]=1^A[0];
 ```
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
