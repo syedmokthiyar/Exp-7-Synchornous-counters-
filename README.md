@@ -97,7 +97,8 @@ end module
 # UP COUNTER
 ![Screenshot 2023-10-21 091827](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/685fb319-a210-4973-9125-b67a47fc6752)
 # DOWN COUNTER
-![Screenshot 2023-10-21 094133](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/7ecab5bb-30ed-412a-ba61-5177b6f5ae73)
+![Screenshot 2023-11-15 101957](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/a34f5f6a-9c3a-47b5-a02c-da416ef3bcf5)
+
 
 ### TIMING DIGRAMS FOR COUNTER  
 
