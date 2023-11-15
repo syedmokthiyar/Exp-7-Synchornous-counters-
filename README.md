@@ -102,10 +102,12 @@ end module
 ### TIMING DIGRAMS FOR COUNTER  
 
 # UP COUNTER
-![Screenshot 2023-10-21 093541](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/62290567-dd97-4d4f-a282-ab617731b841)
+![Screenshot 2023-11-15 101752](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/3bc32398-d48c-43b6-8879-eb68d6b885d8)
+
 
 # DOWN COUNTER
-![Screenshot 2023-10-31 122803](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/d135380b-abf1-4c1b-a9dc-0d303d453627)
+![Screenshot 2023-11-15 101658](https://github.com/syedmokthiyar/Exp-7-Synchornous-counters-/assets/118787294/6a96d5b4-c4d5-4f86-8c25-117b453be243)
+
 
 ### TRUTH TABLE 
 # UP COUNTER
